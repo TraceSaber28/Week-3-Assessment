@@ -1,0 +1,102 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+section {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+#skills {
+	margin-right: 30px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 10px;
+	height: 500px;
+	width: 200px;
+	background-color: white;
+	color: black;
+	border: solid black 5px;
+	text-align: left;
+	font-size: 25px;
+}
+
+#interests {
+	margin-right: 30px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 10px;
+	height: 500px;
+	width: 200px;
+	background-color: white;
+	color: black;
+	border: solid black 5px;
+	text-align: left;
+	font-size: 25px;
+}
+
+#goals {
+	margin-right: 30px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 10px;
+	height: 500px;
+	width: 200px;
+	background-color: white;
+	color: black;
+	border: solid black 5px;
+	text-align: left;
+	font-size: 25px;
+}
+
+li {
+	padding: 5px;
+}
+
+#buttons {
+	margin: 5px;
+}
+
+.button {
+	margin: 20px;
+	background-color: yellow;
+	width: 200px;
+	height: 50px;
+	text-align: center;
+}
